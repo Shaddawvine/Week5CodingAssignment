@@ -8,6 +8,10 @@ public class App {
 		Logger spaced = new SpacedLogger();
 		
 		spaced.Error("Chrono");
+		spaced.Log("Chrono");
+		asterisk.Error("Chrono");
+		asterisk.Log("Chrono");
+		
 		
 		
 	}
